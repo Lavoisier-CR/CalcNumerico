@@ -197,3 +197,4 @@ matriz2 = [[1, 2, 3],
 
 print("Matriz simétrica", is_symmetric(matriz1)) 
 print("matriz não-simétrica:", is_symmetric(matriz2)) 
+print("\n")
